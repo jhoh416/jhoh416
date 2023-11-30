@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Static Badge](https://img.shields.io/badge/:mybadge-blue)
-
+[![Static Badge](https://img.shields.io/badge/Email-blue)](mailto:jhoh416@gmail.com)
+![views](https://gh-hits.nomadcoders.workers.dev/view?username=jhoh416)
 ---
 
 ### 나를 소개하는 한 문장
