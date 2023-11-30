@@ -32,7 +32,7 @@
    * Java
    * Python
    * Spring![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-   * SpringBoot
+   * SpringBoot![Static Badge](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white)
    * Spring Data JPA
    * JSP
    * JSTL
