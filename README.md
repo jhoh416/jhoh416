@@ -41,6 +41,9 @@
    * Javascript
    * MySQL
    * Oracle
+
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Oh&nbsp;Jeonghoon&fontSize=70&animation=twinkling)
 <!--
 **jhoh416/jhoh416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
