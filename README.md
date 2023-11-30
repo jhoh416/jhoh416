@@ -31,7 +31,7 @@
    ### 보유 기술
    * Java
    * Python
-   * Spring
+   * Spring![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
    * SpringBoot
    * Spring Data JPA
    * JSP
