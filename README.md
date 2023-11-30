@@ -29,8 +29,8 @@
    ---
 
    ### 보유 기술
-   * Java
-   * Python
+   * Java![Static Badge](https://img.shields.io/badge/Java-437291?style=flat-square&logo=Coffeescript&logoColor=white)
+   * Python![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
    * Spring![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
    * SpringBoot![Static Badge](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white)
    * Spring Data JPA
